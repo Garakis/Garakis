@@ -1,29 +1,34 @@
 <img src="https://raw.githubusercontent.com/MicaelliMedeiros/micaellimedeiros/master/image/computer-illustration.png" alt="ilustração de um computador" min-width="400px" max-width="400px" width="400px" align="right">
 
-<p align="left"> 
-  Faça uma breve apresentação sua com o seu nome e não esqueça a <strong>sua stack</strong>.<br>
-  Diga o que você está fazendo no momento, se trabalha ou estuda.
+<p align="left">
+  Olá! Sou <strong>Emmanuel Garakis</strong>, desenvolvedor focado em soluções inteligentes e escaláveis.<br>
+  Minha stack principal envolve <strong>Python, JavaScript e Node.js</strong>, com foco em arquitetura de sistemas e IA.
 </p>
 
 <p align="left">
-  🦄 Linguagens: **Python|JavaScript|HTML|CSS|C|R|Java.**
+  🚀 Atualmente sou <strong>Co-fundador e CTO da Zenix</strong>, onde lidero o desenvolvimento de produtos tecnológicos. <br>
+  🎓 Estudante de Análise e Desenvolvimento de Sistemas na <strong>FATEC</strong>.
 </p>
 
 <p align="left">
-  💼 Ferramentas: **{placeholder}.**
+  🦄 Linguagens: **Python | JavaScript | TypeScript | HTML | CSS | C | Java.**
 </p>
 
 <p align="left">
-  💌 Aqui vai uma mensagem para entrar em contato com você: ⤵️
+  💼 Ferramentas e Tech: **Node.js | Git | Docker | ClickUp | Google Cloud | Vercel.**
+</p>
+
+<p align="left">
+  💌 Vamos construir algo juntos? Entre em contato: ⤵️
 </p>
 
 <p align="left">
   <a href="mailto:emmanogarakis@gmail.com" title="Gmail">
-  <img src="https://img.shields.io/badge/-Gmail-FF0000?style=flat-square&labelColor=FF0000&logo=gmail&logoColor=white&link=LINK-DO-SEU-GMAIL" alt="Gmail"/></a>
+  <img src="https://img.shields.io/badge/-Gmail-FF0000?style=flat-square&labelColor=FF0000&logo=gmail&logoColor=white" alt="Gmail"/></a>
   <a href="https://www.linkedin.com/in/emmanuel-basile-garakis-filho-024572266/" title="LinkedIn">
-  <img src="https://img.shields.io/badge/-Linkedin-0e76a8?style=flat-square&logo=Linkedin&logoColor=white&link=LINK-DO-SEU-LINKEDIN" alt="LinkedIn"/></a>
-  <a href="https://wa.me/5512912345678" title="WhatsApp">
-  <img src="https://img.shields.io/badge/-WhatsApp-25d366?style=flat-square&labelColor=25d366&logo=whatsapp&logoColor=white&link=API-DO-SEU-WHATSAPP" alt="WhatsApp"/></a>
+  <img src="https://img.shields.io/badge/-Linkedin-0e76a8?style=flat-square&logo=Linkedin&logoColor=white" alt="LinkedIn"/></a>
+  <a href="https://wa.me/5512981554522" title="WhatsApp">
+  <img src="https://img.shields.io/badge/-WhatsApp-25d366?style=flat-square&labelColor=25d366&logo=whatsapp&logoColor=white" alt="WhatsApp"/></a>
   <a href="https://instagram.com/emmanuel.garakis" title="Instagram">
-  <img src="https://img.shields.io/badge/-Instagram-DF0174?style=flat-square&labelColor=DF0174&logo=instagram&logoColor=white&link=LINK-DO-SEU-INSTAGRAM" alt="Instagram"/></a>
+  <img src="https://img.shields.io/badge/-Instagram-DF0174?style=flat-square&labelColor=DF0174&logo=instagram&logoColor=white" alt="Instagram"/></a>
 </p>
